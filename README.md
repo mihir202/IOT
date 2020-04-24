@@ -12,7 +12,6 @@ Requirements:-
 Arduino Uno
 NodeMCU
 Breadboard
-LED
 Jumper Cable
 Android Studio
 Arduino IDE
